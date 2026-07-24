@@ -1,32 +1,53 @@
-# GitHub Batch Uploader GUI
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows" alt="Platform">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+</p>
 
-A modern, multi-tabbed Python GUI application designed to batch-upload files and entire folder structures to GitHub repositories using Personal Access Tokens. Features automatic folder creation, real-time logging, and a sleek dark-themed interface.
+<h1 align="center">🚀 GitHub Batch Uploader GUI</h1>
+<p align="center">
+  A modern, multi-tabbed Python application that securely uploads entire folders and files to GitHub via the API.
+</p>
 
-![App Screenshot](https://via.placeholder.com/800x400?text=GitHub+Uploader+GUI+Preview) *(Replace with actual screenshot)*
-
----
-
-## 🚀 Features
-- **Batch & Recursive Uploads**: Upload an entire local folder with all its subfolders and files in one click.
-- **Smart Path Detection**: When you browse for a local folder, the app automatically extracts the folder name and pre-fills it as the `Target Remote Dir`. You can still edit it manually.
-- **Folder Creation**: Automatically preserves your local folder structure on GitHub (Note: GitHub requires at least one file in a folder to create it).
-- **Tabbed Interface**: Easy-to-use tabs for **Settings**, **Multi-Uploader**, **Activity Logs**, and **User Guide**.
-- **Robust Authentication**: Uses GitHub Personal Access Tokens (Classic) with a `Save & Verify` feature to test your connection before uploading.
-- **Real-time Logging**: View a live, timestamped log of your upload process in the Activity Logs tab.
-- **Modern Dark Theme**: Styled with a high-contrast dark theme (VSCode-style) for a professional look.
-- **One-Click EXE Compilation**: Fully tested to compile into a single portable `.exe` file using PyInstaller.
+<p align="center">
+  <img src="assets/screenshot-GitHub%20Uploader%20GUI%20Script.png" alt="App Screenshot" width="90%">
+</p>
 
 ---
 
-## 📋 Prerequisites
-Before running the application, make sure you have the following installed:
+## 📚 Table of Contents
+- [✨ Features](#-features)
+- [📦 Prerequisites & Installation](#-prerequisites--installation)
+- [🔑 Step-by-Step: How to Create a GitHub Token](#-step-by-step-how-to-create-a-github-token)
+- [⚙️ Application Usage Guide](#️-application-usage-guide)
+- [🧩 How to Compile to a standalone `.exe`](#-how-to-compile-to-a-standalone-exe)
+- [👨‍💻 Creator](#-creator)
 
-1. **Python 3.7+** 
-   *Download from [python.org](https://www.python.org/downloads/)*. (Ensure you check **"Add Python to PATH"** during installation).
-2. **Git Bash / PortableGit**
-   *Download Git for Windows: [https://git-scm.com/install/windows](https://git-scm.com/install/windows)* (Standard installer includes Git Bash). 
-   *Alternatively, use Portable Git if you prefer a standalone folder (like in your setup).
-3. **Python `requests` Library**
-   Open your Git Bash terminal and run:
+---
+
+## ✨ Features
+- **Batch & Recursive Uploads:** Upload an entire local directory including all subfolders and nested files in one click.
+- **Smart Path Detection:** Select your local folder, and the app instantly auto-fills the remote directory name (e.g., selecting `D:/Projects/bill_calculator` auto-fills `bill_calculator` as the target folder). You can still edit it if needed.
+- **Preserves Folder Structure:** The tool accurately recreates your local directory hierarchy on GitHub. *(Note: GitHub requires at least one file inside a folder to create it).*
+- **Robust API Security:** Uses GitHub Personal Access Tokens (Classic) with a **"Save & Verify"** button to test your credentials before uploading.
+- **Real-Time Activity Log:** A dedicated tab displays live timestamped logs (Success ✅ / Errors ❌) so you can track the process instantly.
+- **Modern Dark UI:** Designed with a sleek, VSCode-inspired dark theme, complete with accent colors and an in-app "User Guide" tab.
+
+---
+
+## 📦 Prerequisites & Installation
+
+Before running the uploader, please ensure you have the following installed:
+
+1. **Git Bash / PortableGit**
+   - Required to run the script and handle Git commands (if needed).
+   - Download the Windows installer here: [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
+
+2. **Python 3.7 or newer**
+   - Make sure Python is installed and **added to your Windows PATH** during installation.
+   - [Download Python](https://www.python.org/downloads/)
+
+3. **Install the `requests` Library**
+   - Open your **Git Bash** terminal (or Command Prompt) and run:
    ```bash
    pip install requests
