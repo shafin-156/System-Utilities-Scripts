@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-GitHub%20Uploader%20GUI%20Script.png" alt="App Screenshot" width="50%">
+  <img src="assets/screenshot-GitHub-Uploader-1.png" alt="App Screenshot" width="50%"><img src="assets/screenshot-GitHub-Uploader-2.png" alt="App Screenshot" width="50%">
 </p>
 
 ---
