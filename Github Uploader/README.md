@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-GitHub%20Uploader%20GUI%20Script.png" alt="App Screenshot" width="90%">
+  <img src="assets/screenshot-GitHub%20Uploader%20GUI%20Script.png" alt="App Screenshot" width="50%">
 </p>
 
 ---
@@ -41,13 +41,13 @@ Before running the uploader, please ensure you have the following installed:
 
 1. **Git Bash / PortableGit**
    - Required to run the script and handle Git commands (if needed).
-   - Download the Windows installer here: [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
+   - Download the Git Bash Portable here: [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
 
 2. **Python 3.7 or newer**
    - Make sure Python is installed and **added to your Windows PATH** during installation.
    - [Download Python](https://www.python.org/downloads/)
 
 3. **Install the `requests` Library**
-   - Open your **Git Bash** terminal (or Command Prompt) and run:
+   - Open your terminal (or Command Prompt) and run:
    ```bash
    pip install requests
