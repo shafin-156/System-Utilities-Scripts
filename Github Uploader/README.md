@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-GitHub-Uploader-1.png" alt="App Screenshot" width="30%"> <img src="assets/screenshot-GitHub-Uploader-2.png" alt="App Screenshot" width="30%">
+  <img src="assets/screenshot-GitHub-Uploader-1.png" alt="App Screenshot" width="40%"> 
+  <img src="assets/screenshot-GitHub-Uploader-2.png" alt="App Screenshot" width="40%">
 </p>
 
 ---
@@ -41,7 +42,7 @@ Before running the uploader, please ensure you have the following installed:
 
 1. **Git Bash / PortableGit**
    - Required to run the script and handle Git commands (if needed).
-   - Download the Git Bash Portable here: [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
+   - Download the Git Bash Portable from here: [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
 
 2. **Python 3.7 or newer**
    - Make sure Python is installed and **added to your Windows PATH** during installation.
