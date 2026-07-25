@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot-brave-lock.png" alt="App Screenshot" width="50%">
+  <img src="Screenshot-brave-lock.png" alt="App Screenshot" width="30%">
 </p>
 
 ---
 
 # BraveLock
 
-**braveLock** is a lightweight Windows utility designed to secure and manage access to the Brave Browser. Protect your personal browsing sessions, bookmarks, and stored data from unauthorized access with quick passcode locking.
+**BraveLock** is a lightweight Windows utility designed to secure and manage access to the Brave Browser. Protect your personal browsing sessions, bookmarks, and stored data from unauthorized access with quick passcode locking.
 
 ---
 
