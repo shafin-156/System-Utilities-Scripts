@@ -7,7 +7,7 @@
 
 <h1 align="center">🚀 GitHub Batch Uploader GUI</h1>
 <p align="center">
-  <a href="EXE-Windows/GitHub%20Uploader%20v2.9.5_Windows.exe">
+  <a href="EXE-Windows/GitHub%20Uploader.zip">
     <img src="https://img.shields.io/badge/📥_Download_For-(Windows)-FF0000?style=for-the-badge" alt="Download Windows EXE">
   </a>
 </p>
