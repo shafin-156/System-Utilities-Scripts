@@ -18,16 +18,11 @@
 
 ---
 
-## 📚 Table of Contents
-
-- [✨ Features](#features)
-- [📦 Prerequisites & Installation](#prerequisites--installation)
-- [🔑 Step-by-Step: How to Create a GitHub Token](#step-by-step-how-to-create-a-github-token)
-- [⚙️ Application Usage Guide](#application-usage-guide)
-- [🧩 How to Compile to a Standalone `.exe`](#how-to-compile-to-a-standalone-exe)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
-- [👨‍💻 Creator](#creator)
+<p align="center">
+  <a href="EXE-Windows/GitHub%20Uploader%20v2.9.5_Windows.exe">
+    <img src="https://img.shields.io/badge/📥_Download_EXE-(Windows_v2.9.5)-2ea44f?style=for-the-badge" alt="Download Windows EXE">
+  </a>
+</p>
 
 ---
 
@@ -44,7 +39,7 @@
 
 ## 📦 Prerequisites & Installation
 
-To run the application directly from the source code, ensure your system meets the following requirements:
+If you prefer to run the application directly from the source code instead of using the pre-compiled `.exe`, ensure your system meets the following requirements:
 
 ### 1. Git Bash / PortableGit
 Required to handle underlying Git operations. 
