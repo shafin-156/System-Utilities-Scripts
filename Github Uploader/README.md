@@ -33,5 +33,5 @@
 
 
 - [Download Git for Windows x64 Portable](https://git-scm.com/install/windows) and Extract using **WinRAR**.
-- <a href="EXE-Windows/GitHub Uploader v2.9.5_Windows.exe">Download GitHub Uploader.exe</a> Move insite to the `PortableGit` folder, where `git-bash.exe` is stored.
+- <a href="EXE-Windows/">Download GitHub Uploader.exe</a> Move insite to the `PortableGit` folder, where `git-bash.exe` is stored.
 
