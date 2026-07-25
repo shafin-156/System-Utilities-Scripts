@@ -8,8 +8,8 @@ import sys
 # --- Configuration ---
 TARGET_APP = "brave.exe"
 
-# Sha256 hash (Password: 123)
-PASSWORD_HASH = "5ec1f7e700f37c3d0b2981d04855fc34b94aaa15457b05ca571817442d228f80"
+# Sha256 hash (Password: 1234)
+PASSWORD_HASH = "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
 
 
 def resource_path(relative_path):
