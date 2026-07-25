@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="EXE-Windows/GitHub%20Uploader%20v2.9.5_Windows.exe">
-    <img src="https://img.shields.io/badge/📥_Download_EXE-(Windows_v2.9.5)-2ea44f?style=for-the-badge" alt="Download Windows EXE">
+    <img src="https://img.shields.io/badge/📥_Download_EXE-(Windows_v2.9.5)-FF0000?style=for-the-badge" alt="Download Windows EXE">
   </a>
 </p>
 
