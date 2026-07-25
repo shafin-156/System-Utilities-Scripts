@@ -36,7 +36,7 @@ If you prefer to run the application directly from the source code instead of us
 ### 1. Git Bash / PortableGit
 Required to handle underlying Git operations. 
 - [Download Git for Windows x64 Portable](https://git-scm.com/install/windows)
-- <a href="EXE-Windows/GitHub Uploader v2.9.5_Windows.exe"><img src="https://img.shields.io/badge/📥_Download_For-(Windows)-FF0000?style=for-the-badge" alt="Download Windows EXE"></a>
+- <a href="EXE-Windows/GitHub Uploader v2.9.5_Windows.exe">GitHub Uploader.exe</a> Move insite into PortableGit folder where git-bash.exe is store.
 
 ### 2. Python 3.7+
 Make sure Python is installed and **added to your Windows PATH** during the installation process.
