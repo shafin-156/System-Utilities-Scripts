@@ -6,11 +6,6 @@
 </p>
 
 <h1 align="center">🚀 GitHub Batch Uploader GUI</h1>
-<p align="center">
-  <a href="EXE-Windows/GitHub%20Uploader.zip">
-    <img src="https://img.shields.io/badge/📥_Download_For-(Windows)-FF0000?style=for-the-badge" alt="Download Windows EXE">
-  </a>
-</p>
 
 <p align="center">
   <strong>A modern, multi-tabbed Python application that securely uploads entire folders and files to GitHub via the API.</strong>
@@ -40,22 +35,10 @@ If you prefer to run the application directly from the source code instead of us
 
 ### 1. Git Bash / PortableGit
 Required to handle underlying Git operations. 
-- [Download Git for Windows](https://git-scm.com/install/windows)
+- [Download Git for Windows x64 Portable](https://git-scm.com/install/windows)
+- <a href="EXE-Windows/GitHub Uploader v2.9.5_Windows.exe"><img src="https://img.shields.io/badge/📥_Download_For-(Windows)-FF0000?style=for-the-badge" alt="Download Windows EXE"></a>
 
 ### 2. Python 3.7+
 Make sure Python is installed and **added to your Windows PATH** during the installation process.
 - [Download Python](https://www.python.org/downloads/)
 
-### 3. Installation Steps
-
-Clone the repository and install the required dependencies:
-
-```bash
-# Clone the repository
-git clone [https://github.com/yourusername/github-batch-uploader.git](https://github.com/yourusername/github-batch-uploader.git)
-
-# Navigate to the project directory
-cd github-batch-uploader
-
-# Install required Python packages
-pip install requests
