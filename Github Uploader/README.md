@@ -6,6 +6,11 @@
 </p>
 
 <h1 align="center">🚀 GitHub Batch Uploader GUI</h1>
+<p align="center">
+  <a href="EXE-Windows/GitHub%20Uploader%20v2.9.5_Windows.exe">
+    <img src="https://img.shields.io/badge/📥_Download_For-(Windows)-FF0000?style=for-the-badge" alt="Download Windows EXE">
+  </a>
+</p>
 
 <p align="center">
   <strong>A modern, multi-tabbed Python application that securely uploads entire folders and files to GitHub via the API.</strong>
@@ -14,14 +19,6 @@
 <p align="center">
   <img src="assets/screenshot-GitHub-Uploader-1.png" alt="App Screenshot 1" width="45%"> &nbsp;
   <img src="assets/screenshot-GitHub-Uploader-2.png" alt="App Screenshot 2" width="45%">
-</p>
-
----
-
-<p align="center">
-  <a href="EXE-Windows/GitHub%20Uploader%20v2.9.5_Windows.exe">
-    <img src="https://img.shields.io/badge/📥_Download_EXE-(Windows_v2.9.5)-FF0000?style=for-the-badge" alt="Download Windows EXE">
-  </a>
 </p>
 
 ---
