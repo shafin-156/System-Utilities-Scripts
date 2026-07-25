@@ -31,14 +31,7 @@
 
 ## 📦 Prerequisites & Installation
 
-If you prefer to run the application directly from the source code instead of using the pre-compiled `.exe`, ensure your system meets the following requirements:
 
-### 1. Git Bash / PortableGit
-Required to handle underlying Git operations. 
-- [Download Git for Windows x64 Portable](https://git-scm.com/install/windows)
-- <a href="EXE-Windows/GitHub Uploader v2.9.5_Windows.exe">GitHub Uploader.exe</a> Move insite to the **PortableGit** folder, where **git-bash.exe** is stored.
-
-### 2. Python 3.7+
-Make sure Python is installed and **added to your Windows PATH** during the installation process.
-- [Download Python](https://www.python.org/downloads/)
+- [Download Git for Windows x64 Portable](https://git-scm.com/install/windows) and Extract using **WinRAR**.
+- <a href="EXE-Windows/GitHub Uploader v2.9.5_Windows.exe">Download GitHub Uploader.exe</a> Move insite to the `PortableGit` folder, where `git-bash.exe` is stored.
 
